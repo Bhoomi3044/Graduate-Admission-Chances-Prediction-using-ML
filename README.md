@@ -1,5 +1,5 @@
 # Graduate-Admission-Chances-Prediction-using-ML
-# 🎓 Graduate Admission Chances Prediction
+# Graduate Admission Chances Prediction
 
 This project uses machine learning techniques to predict the chances of a student getting admitted into a graduate program based on their academic profile.
 
